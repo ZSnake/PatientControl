@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="A90E8848-2700-488A-85E4-789087D5911C" ModuleId="PatientControl.Web.Tests" />
+  <Module PersistentId="9303E99B-4AD5-4446-9EA3-14AE35AD0646" ModuleId="PatientControl.Web" />
+</Modules>

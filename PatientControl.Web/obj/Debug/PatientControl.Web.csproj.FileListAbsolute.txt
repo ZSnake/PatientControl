@@ -1,0 +1,90 @@
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\PatientControl.Web.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\PatientControl.Web.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\Autofac.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\Autofac.Integration.Mvc.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\Autofac.Integration.WebApi.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\Newtonsoft.Json.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Net.Http.Formatting.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.Helpers.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.Http.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.Http.WebHost.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.Mvc.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.Razor.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\Autofac.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\Autofac.Integration.Mvc.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\Autofac.Integration.WebApi.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\Newtonsoft.Json.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Net.Http.Formatting.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.Helpers.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.Http.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.Http.WebHost.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.Mvc.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.Razor.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.Helpers.resources.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.Http.resources.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.Mvc.resources.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.Razor.resources.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.WebPages.resources.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\obj\Debug\PatientControl.Web.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\obj\Debug\PatientControl.Web.dll
+c:\users\viktor\documents\visual studio 2012\Projects\PatientControl.Web\PatientControl.Web\obj\Debug\PatientControl.Web.pdb
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\obj\Debug\PatientControl.Web.csprojResolveAssemblyReference.cache
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\obj\Debug\PatientControl.Web.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\PatientControl.Web.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\PatientControl.Web.pdb
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\Autofac.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\Autofac.Integration.Mvc.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\Autofac.Integration.WebApi.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\Newtonsoft.Json.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Net.Http.Formatting.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.Helpers.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.Http.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.Http.WebHost.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.Mvc.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.Razor.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.Deployment.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.Razor.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\Autofac.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\Autofac.Integration.Mvc.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\Autofac.Integration.WebApi.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\Newtonsoft.Json.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Net.Http.Formatting.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.Helpers.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.Http.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.Http.WebHost.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.Mvc.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.Razor.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.Deployment.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\System.Web.WebPages.Razor.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.Helpers.resources.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.Http.resources.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.Mvc.resources.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.Razor.resources.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.WebPages.resources.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\obj\Debug\PatientControl.Web.pdb
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\AttributeRouting.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\AttributeRouting.Web.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\AttributeRouting.Web.Mvc.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\WebActivator.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\AttributeRouting.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\AttributeRouting.Web.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\AttributeRouting.Web.Mvc.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web\bin\WebActivator.pdb
