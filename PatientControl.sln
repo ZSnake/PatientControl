@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientControl.Domain", "Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientControl.Domain.Tests", "PatientControl.Domain.Tests\PatientControl.Domain.Tests.csproj", "{3933B0AF-C68B-4216-9EAF-94C671640854}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientControl.Data", "PatientControl.Data\PatientControl.Data.csproj", "{183067D3-8642-45EB-AB63-9243BDA7BE8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{3933B0AF-C68B-4216-9EAF-94C671640854}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3933B0AF-C68B-4216-9EAF-94C671640854}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3933B0AF-C68B-4216-9EAF-94C671640854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183067D3-8642-45EB-AB63-9243BDA7BE8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183067D3-8642-45EB-AB63-9243BDA7BE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183067D3-8642-45EB-AB63-9243BDA7BE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183067D3-8642-45EB-AB63-9243BDA7BE8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
