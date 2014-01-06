@@ -3,4 +3,5 @@
   <Module PersistentId="9303E99B-4AD5-4446-9EA3-14AE35AD0646" ModuleId="PatientControl.Web" />
   <Module PersistentId="183067D3-8642-45EB-AB63-9243BDA7BE8A" ModuleId="PatientControl.Data" />
   <Module PersistentId="966771E8-31E7-452A-9A0C-6147F5FFFC80" ModuleId="PatientControl.Domain" />
+  <Module PersistentId="System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.ServiceModel" />
 </Modules>

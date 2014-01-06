@@ -1,0 +1,15 @@
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\PatientControl.Data.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\PatientControl.Data.pdb
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\AcklenAvenue.Data.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\ClassLibrary1.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\FluentNHibernate.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\Iesi.Collections.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\NHibernate.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\ClassLibrary1.pdb
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\FluentNHibernate.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\Iesi.Collections.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\bin\Debug\NHibernate.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\obj\Debug\PatientControl.Data.csprojResolveAssemblyReference.cache
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\obj\Debug\PatientControl.Data.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Data\obj\Debug\PatientControl.Data.pdb

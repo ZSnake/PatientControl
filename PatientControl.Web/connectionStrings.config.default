@@ -1,0 +1,14 @@
+﻿<connectionStrings>
+  <!--<add name="Huddle" connectionString="server=.\SQLEXPRESS;database=Huddle;Integrated Security=True;MultipleActiveResultSets=true;" providerName="System.Data.SqlClient"/>
+  <add name="Search" connectionString="server=.\SQLEXPRESS;database=Search;Integrated Security=True;MultipleActiveResultSets=true;" providerName="System.Data.SqlClient"/>-->
+
+  <!-- acklen avenue server -->
+  <!--
+  <add name="Huddle" connectionString="Server=e2636777-4921-468a-abdf-a21b018989f4.sqlserver.sequelizer.com;Database=dbe26367774921468aabdfa21b018989f4;User ID=waiohgontnolrofd;Password=kMGxYKAJ8c22AYDKkJnZXJyRiSJp6kRzkXCHKczqGTHpvRe4a5qgwurHnXofbkMV;" providerName="System.Data.SqlClient"/>
+  <add name="Search" connectionString="Server=03770a02-fa2e-47a6-a4fc-a22a0140a158.sqlserver.sequelizer.com;Database=db03770a02fa2e47a6a4fca22a0140a158;User ID=ejqgmjrvmgyqqawg;Password=ptAicRj58u5CoT6fzncuoYVtkXvgWjxQCrvTRPjBmRpjzmKSr2nz8GbyEg7mvcgW;MultipleActiveResultSets=true;" providerName="System.Data.SqlClient"/>
+  -->
+  
+  <!-- depalma server -->
+  <add name="Huddle" connectionString="Server=12e2a6c2-4666-45eb-bd93-a1e20128186a.sqlserver.sequelizer.com;Database=db12e2a6c2466645ebbd93a1e20128186a;User ID=gtisbovtrqjrtoth;Password=WcsQWkjGrHAtUQguzRVzSvvxHqNuAz7cKJZXmhHdJUzBhDa7EbodUtGzP4gFDWgZ;" providerName="System.Data.SqlClient"/>
+  <add name="Search" connectionString="Server=ccc5dccc-3976-42fb-872d-a22f01773c91.sqlserver.sequelizer.com;Database=dbccc5dccc397642fb872da22f01773c91;User ID=ubqciweynlygfdfg;Password=hmakFVXxqccx68NBWkEThRjDJbGYY6CvVgjhQcDcnoXs2TbGVCAcLBgycDHDn8Ft;MultipleActiveResultSets=true;" providerName="System.Data.SqlClient"/>
+</connectionStrings>

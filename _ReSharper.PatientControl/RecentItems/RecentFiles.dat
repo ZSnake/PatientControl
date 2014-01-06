@@ -1,14 +1,28 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:IBootstrapperTask.cs" caret="0" fromTop="0" />
-    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:Bootstrapper.cs" caret="1116" fromTop="31" />
-    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
-    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/d:Controllers/f:HomeController.cs" caret="228" fromTop="11" />
-    <File id="A90E8848-2700-488A-85E4-789087D5911C/f:when_getting_the_home_of_the_app.cs" caret="274" fromTop="10" />
+    <File id="183067D3-8642-45EB-AB63-9243BDA7BE8A/f:WriteableRepository.cs" caret="931" fromTop="34" />
+    <File id="183067D3-8642-45EB-AB63-9243BDA7BE8A/f:ReadOnlyRepository.cs" caret="1442" fromTop="10" />
+    <File id="183067D3-8642-45EB-AB63-9243BDA7BE8A/f:ItemNotFoundException.cs" caret="422" fromTop="16" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:ConfigureAutoMapper.cs" caret="0" fromTop="0" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:ConfigureThisApplication.cs" caret="0" fromTop="0" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/d:Controllers/f:RoomsController.cs" caret="808" fromTop="28" />
+    <File id="183067D3-8642-45EB-AB63-9243BDA7BE8A/f:MappingScheme.cs" caret="278" fromTop="11" />
+    <File id="A90E8848-2700-488A-85E4-789087D5911C/f:when_getting_all_rooms.cs" caret="1177" fromTop="15" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:Bootstrapper.cs" caret="1996" fromTop="5" />
+    <File id="966771E8-31E7-452A-9A0C-6147F5FFFC80/f:IReadOnlyRepository.cs" caret="130" fromTop="6" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:ConfigureDependencies.cs" caret="802" fromTop="9" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:connectionStrings.config" caret="0" fromTop="0" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:Web.config" caret="529" fromTop="7" />
   </RecentFiles>
   <RecentEdits>
-    <File id="A90E8848-2700-488A-85E4-789087D5911C/f:when_getting_the_home_of_the_app.cs" caret="324" fromTop="12" />
-    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/d:Controllers/f:HomeController.cs" caret="195" fromTop="8" />
-    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="183067D3-8642-45EB-AB63-9243BDA7BE8A/f:MappingScheme.cs" caret="773" fromTop="13" />
+    <File id="183067D3-8642-45EB-AB63-9243BDA7BE8A/f:ReadOnlyRepository.cs" caret="1443" fromTop="11" />
+    <File id="183067D3-8642-45EB-AB63-9243BDA7BE8A/f:WriteableRepository.cs" caret="931" fromTop="25" />
+    <File id="966771E8-31E7-452A-9A0C-6147F5FFFC80/f:IReadOnlyRepository.cs" caret="100" fromTop="3" />
+    <File id="A90E8848-2700-488A-85E4-789087D5911C/f:when_getting_all_rooms.cs" caret="1125" fromTop="7" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/d:Controllers/f:RoomsController.cs" caret="447" fromTop="18" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:ConfigureDependencies.cs" caret="802" fromTop="9" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:Bootstrapper.cs" caret="2044" fromTop="11" />
+    <File id="9303E99B-4AD5-4446-9EA3-14AE35AD0646/f:Web.config" caret="529" fromTop="7" />
   </RecentEdits>
 </RecentFiles>
