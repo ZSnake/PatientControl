@@ -36,6 +36,9 @@
     <Reference Include="AutoMapper.Net4">
       <HintPath>..\packages\AutoMapper.3.1.1\lib\net40\AutoMapper.Net4.dll</HintPath>
     </Reference>
+    <Reference Include="FizzWare.NBuilder">
+      <HintPath>..\packages\NBuilder.3.0.1.1\lib\FizzWare.NBuilder.dll</HintPath>
+    </Reference>
     <Reference Include="Machine.Specifications">
       <HintPath>..\packages\Machine.Specifications.0.6.1\lib\net45\Machine.Specifications.dll</HintPath>
     </Reference>
@@ -58,6 +61,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Mapping\when_mapping_a_room_to_a_model.cs" />
     <Compile Include="when_getting_all_rooms.cs" />
     <Compile Include="when_getting_the_home_of_the_app.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -1,10 +1,14 @@
+using AutoMapper;
+using ClassLibrary1;
+using PatientControl.Web.Models;
+
 namespace PatientControl.Web
 {
     public class ConfigureAutoMapper : IBootstrapperTask
     {
         public void Run()
         {
-            //Create maps
+            Mapper.CreateMap<Room, RoomModel>();
         }
     }
 }

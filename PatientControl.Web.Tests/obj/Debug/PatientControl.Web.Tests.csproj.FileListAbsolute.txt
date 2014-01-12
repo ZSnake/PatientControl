@@ -76,3 +76,5 @@ C:\AcklenProjects\PatientControl.Web\PatientControl.Web.Tests\bin\Debug\Attribut
 C:\AcklenProjects\PatientControl.Web\PatientControl.Web.Tests\bin\Debug\FluentNHibernate.xml
 C:\AcklenProjects\PatientControl.Web\PatientControl.Web.Tests\bin\Debug\NHibernate.xml
 C:\AcklenProjects\PatientControl.Web\PatientControl.Web.Tests\bin\Debug\Iesi.Collections.xml
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web.Tests\bin\Debug\FizzWare.NBuilder.dll
+C:\AcklenProjects\PatientControl.Web\PatientControl.Web.Tests\bin\Debug\AcklenAvenue.Data.NHibernate.dll

@@ -4,6 +4,8 @@ namespace ClassLibrary1
 {
     public class Room : IEntity
     {
-        public Guid Id { get; private set; }
+        public virtual Guid Id { get; set; }
+
+        public virtual String Name { get; set; }
     }
 }
