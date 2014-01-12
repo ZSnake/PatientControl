@@ -8,8 +8,8 @@ using AcklenAvenue.Data.NHibernate;
 using ClassLibrary1;
 using FluentNHibernate.Cfg.Db;
 using NHibernate;
-using PatientControl.Data;
 using DomainDrivenDatabaseDeployer;
+using PatientControl.Data;
 
 namespace PatientControl.DatabaseDeployer
 {

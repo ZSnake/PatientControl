@@ -3,6 +3,7 @@ using System.Web.Mvc;
 using AttributeRouting.Web.Mvc;
 using AutoMapper;
 using ClassLibrary1;
+using NHibernate.Util;
 using PatientControl.Web.Models;
 
 namespace PatientControl.Web.Controllers
